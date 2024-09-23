@@ -1,4 +1,4 @@
-# why-to-wait-backend
+# spring-boot-sample-architecture
 
 ## Prerequisites
 
